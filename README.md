@@ -1,5 +1,5 @@
 # 05 Third-Party APIs: Work Day Scheduler
-(./Assets/scheduler.png)
+![Daily Scheduler].(./Assets/scheduler.png)
 link: https://joseph388754.github.io/Day-Scheduler/
 
 ## What did I learned?
